@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=imarranz&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imarranz)](https://github.com/imarranz/github-profile-trophy)
