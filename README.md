@@ -12,7 +12,15 @@ Author of 21 publications. Google Scholar H-index = 13. Researcher unique identi
   * [ORCID](https://orcid.org/0000-0001-9483-8426)  
   * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
   * [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
+</details>
+
+<details>
+<summary>Skills</summary> 
  
+  * Languages: Python, R,   
+  * Data Science | Machine Learning | Deep Learning: NumPy, SciPy, Pandas, Scikit-Learn,   
+  * Data Bases: MySQL, SQLite, MongoDB,  
+  * Big Data: H20,  
 </details>
 
 ***
