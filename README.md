@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ibon
 
-I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, I joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and my work was mainly focused on the epidemiological report of renal patients. When I joined OWL Metabolomics in 2010, first I worked as a researcher in the Metabolomics Department and in 2017, I became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This highly experienced team psupports metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
+I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, I joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and my work was mainly focused on the epidemiological report of renal patients. When I joined OWL Metabolomics in 2010, first I worked as a researcher in the Metabolomics Department and in 2017, I became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This highly experienced team supports metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
 
 <details>
 <summary><b>Education</b></summary>
@@ -67,20 +67,23 @@ Peer-reviewed papers:
 <summary><b>Skills</b></summary> 
 <br> 
  
-  * Languages: :red_square::red_square::red_square:Python, R,   
-  * Data Science | Machine Learning | Deep Learning: NumPy, SciPy, Pandas, Scikit-Learn,   
-  * Visualization Tools: Matplotlib, seaborn, altair, 
-  * Data Bases: MySQL, SQLite, MongoDB,  
-  * Big Data: H20,  
- 
 | TOPIC | SOFTWARE | SKILLS |
 |:-----:|:--------:|:------:|
-| Languages | Python | :red_square::red_square::red_square::red_square::white_large_square: |
+| Scientific Programming | Python | :red_square::red_square::red_square::red_square::white_large_square: |
 |           | R | :red_square::red_square::red_square::red_square::white_large_square: |
 | Data Science | Pandas | :red_square::red_square::red_square::red_square::red_square: |
 |              | Numpy  | :red_square::red_square::red_square::red_square::red_square: |
 |              | Scipy  | :red_square::red_square::red_square::red_square::white_large_square: |
 | Machine Learning | Scikit-Learn | :red_square::red_square::red_square::red_square::white_large_square: | 
+| Data Bases | MySQL | :red_square::red_square::red_square::white_large_square::white_large_square: |
+|            | SQLite | :red_square::red_square::red_square::red_square::white_large_square: |
+|            | MongoDB | :red_square::red_square::white_large_square::white_large_square::white_large_square: |
+| Big Data   | H2O | :red_square::red_square::red_square::red_square::white_large_square: | 
+| Visualization Tools | Matplotlib | :red_square::red_square::red_square::red_square::white_large_square: | 
+|                     | Seaborn | :red_square::red_square::red_square::red_square::red_square: |  
+|                     | Altair | :red_square::red_square::red_square::red_square::white_large_square: |  
+ 
+ 
  
 </details>
 
