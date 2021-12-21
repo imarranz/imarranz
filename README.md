@@ -67,11 +67,21 @@ Peer-reviewed papers:
 <summary><b>Skills</b></summary> 
 <br> 
  
-  * Languages: Python, R,   
+  * Languages: :red_square::red_square::red_square:Python, R,   
   * Data Science | Machine Learning | Deep Learning: NumPy, SciPy, Pandas, Scikit-Learn,   
   * Visualization Tools: Matplotlib, seaborn, altair, 
   * Data Bases: MySQL, SQLite, MongoDB,  
   * Big Data: H20,  
+ 
+| TOPIC | SOFTWARE | SKILLS |
+|:-----:|:--------:|:------:|
+| Languages | Python | :red_square::red_square::red_square::red_square::white_large_square: |
+|           | R | :red_square::red_square::red_square::red_square::white_large_square: |
+| Data Science | Pandas | :red_square::red_square::red_square::red_square::red_square: |
+|              | Numpy  | :red_square::red_square::red_square::red_square::red_square: |
+|              | Scipy  | :red_square::red_square::red_square::red_square::white_large_square: |
+| Machine Learning | Scikit-Learn | :red_square::red_square::red_square::red_square::white_large_square: | 
+ 
 </details>
 
 <details>
