@@ -24,9 +24,9 @@ Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied t
 <br>
 Author of 21 publications. Google Scholar H-index = 13. Researcher unique identifier  
 
-  * [ORCID](https://orcid.org/0000-0001-9483-8426)  
-  * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
-  * [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
+  * :books: [ORCID](https://orcid.org/0000-0001-9483-8426)  
+  * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
+  * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
  
  #### Data Science of 'omics' data
 
