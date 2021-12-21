@@ -143,6 +143,8 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ***
 
+<p align = "center"> <b>Personal Projects</b> </p>
+
 <p align = "center">
   <p align = "center">
     <img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 300>
@@ -152,6 +154,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 </p>
 
 ***
+<p align = "center"> <b>GitHub Stats</b> </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true" height = 180>
