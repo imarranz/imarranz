@@ -14,7 +14,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | National University of Distance Education (Spain) | MSc. | 07/2012 | Current Applied Statistics Techniques |
 | National University of Distance Education (Spain) | Expert degree | 07/2013 | Multivariate Statistical Techniques |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2021 | Applied Mathematics |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2022 | Applied Mathematics |
 
 Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
@@ -90,7 +90,7 @@ Peer-reviewed papers:
 
 - 🔭 I’m currently working as Senior Data Scientist @ OWL Metabolomics.
 - 🌱 I’m currently learning _Streamlit_, _MongoDB_, ...
-- ⚙️ I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, ...
+- ⚙️ I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
 - 💬 Ask me about _Genetic Algorithms_
 - 📫 How to reach me: [Twitter](https://twitter.com/imarranz)
 - ⚡ Fun fact: I'm a huge fan of The Lord of the Rings.
