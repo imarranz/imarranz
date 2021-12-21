@@ -5,7 +5,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 
 <details>
-<summary>Contributions to Science</summary>  
+ <summary><b>Contributions to Science</b></summary>  
 <br>
 Author of 21 publications. Google Scholar H-index = 13. Researcher unique identifier  
 
@@ -15,7 +15,7 @@ Author of 21 publications. Google Scholar H-index = 13. Researcher unique identi
 </details>
 
 <details>
-<summary>Skills</summary> 
+ <summary><b>Skills</b></summary> 
  
   * Languages: Python, R,   
   * Data Science | Machine Learning | Deep Learning: NumPy, SciPy, Pandas, Scikit-Learn,   
