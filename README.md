@@ -19,6 +19,7 @@ Author of 21 publications. Google Scholar H-index = 13. Researcher unique identi
  
   * Languages: Python, R,   
   * Data Science | Machine Learning | Deep Learning: NumPy, SciPy, Pandas, Scikit-Learn,   
+  * Visualization Tools: Matplotlib, seaborn, altair, 
   * Data Bases: MySQL, SQLite, MongoDB,  
   * Big Data: H20,  
 </details>
