@@ -88,12 +88,12 @@ Peer-reviewed papers:
 
 ***
 
-- 🔭 I’m currently working as Senior Data Scientist @ OWL Metabolomics.
-- 🌱 I’m currently learning _Streamlit_, _MongoDB_, ...
-- ⚙️ I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
-- 💬 Ask me about _Genetic Algorithms_
-- 📫 How to reach me: [Twitter](https://twitter.com/imarranz)
-- ⚡ Fun fact: I'm a huge fan of The Lord of the Rings.
+- :pushpin: I’m currently working as :bar_chart: Senior Data Scientist :bar_chart: @ OWL Metabolomics.
+- :pushpin: I’m currently learning _Streamlit_, _MongoDB_, ...
+- :pushpin: I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
+- :pushpin: Ask me about :dna: _Genetic Algorithms_ :dna:
+- :pushpin: How to reach me :mailbox:: [Twitter](https://twitter.com/imarranz)
+- :pushpin: Fun fact: I'm a huge fan of The Lord of the Rings.
 
 <!--
 examples
