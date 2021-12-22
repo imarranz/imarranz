@@ -75,17 +75,19 @@ Peer-reviewed papers:
 |:-----:|:--------:|:------:|
 | Scientific Programming | Python | :red_square::red_square::red_square::red_square::white_large_square: |
 |           | R | :red_square::red_square::red_square::red_square::white_large_square: |
-| Data Science | Pandas | :red_square::red_square::red_square::red_square::red_square: |
-|              | Numpy  | :red_square::red_square::red_square::red_square::red_square: |
+| Data Analysis | Pandas | :red_square::red_square::red_square::red_square::red_square: |
+| Data Computation | Numpy  | :red_square::red_square::red_square::red_square::red_square: |
 |              | Scipy  | :red_square::red_square::red_square::red_square::white_large_square: |
-| Machine Learning | Scikit-Learn | :red_square::red_square::red_square::red_square::white_large_square: | 
 | Data Bases | MySQL | :red_square::red_square::red_square::white_large_square::white_large_square: |
 |            | SQLite | :red_square::red_square::red_square::red_square::white_large_square: |
 |            | MongoDB | :red_square::red_square::white_large_square::white_large_square::white_large_square: |
+| Machine Learning | Scikit-Learn | :red_square::red_square::red_square::red_square::white_large_square: |  
 | Big Data   | H2O | :red_square::red_square::red_square::red_square::white_large_square: | 
 | Visualization Tools | Matplotlib | :red_square::red_square::red_square::red_square::white_large_square: | 
 |                     | Seaborn | :red_square::red_square::red_square::red_square::red_square: |  
 |                     | Altair | :red_square::red_square::red_square::red_square::white_large_square: |  
+| Web | Shiny | :red_square::red_square::red_square::red_square::white_large_square: |   
+|     | Streamlit | :red_square::red_square::red_square::white_large_square::white_large_square: |   
 
  </div>
 </details>
