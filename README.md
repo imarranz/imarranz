@@ -18,7 +18,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
 | University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2022 | Applied Mathematics |
 
-Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
+Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
 
 <details>
@@ -73,21 +73,14 @@ Peer-reviewed papers:
  
 | TOPIC | SOFTWARE | SKILLS |
 |:-----:|:--------:|:------:|
-| Scientific Programming | Python | :red_square::red_square::red_square::red_square::white_large_square: |
-|           | R | :red_square::red_square::red_square::red_square::white_large_square: |
+| Scientific Programming | Python<br>R | :red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
 | Data Analysis | Pandas | :red_square::red_square::red_square::red_square::red_square: |
-| Data Computation | Numpy  | :red_square::red_square::red_square::red_square::red_square: |
-|              | Scipy  | :red_square::red_square::red_square::red_square::white_large_square: |
-| Data Bases | MySQL | :red_square::red_square::red_square::white_large_square::white_large_square: |
-|            | SQLite | :red_square::red_square::red_square::red_square::white_large_square: |
-|            | MongoDB | :red_square::red_square::white_large_square::white_large_square::white_large_square: |
+| Data Computation | Numpy<br>Scipy  | :red_square::red_square::red_square::red_square::red_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
+| Data Bases | MySQL<br>SQLite<br>MongoDB | :red_square::red_square::red_square::white_large_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::white_large_square::white_large_square::white_large_square: |
 | Machine Learning | Scikit-Learn | :red_square::red_square::red_square::red_square::white_large_square: |  
 | Big Data   | H2O | :red_square::red_square::red_square::red_square::white_large_square: | 
-| Visualization Tools | Matplotlib | :red_square::red_square::red_square::red_square::white_large_square: | 
-|                     | Seaborn | :red_square::red_square::red_square::red_square::red_square: |  
-|                     | Altair | :red_square::red_square::red_square::red_square::white_large_square: |  
-| Web | Shiny | :red_square::red_square::red_square::red_square::white_large_square: |   
-|     | Streamlit | :red_square::red_square::red_square::white_large_square::white_large_square: |   
+| Visualization Tools | Matplotlib<br>Seaborn<br>Altair | :red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::red_square::red_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
+| Web | Shiny<br>Streamlit | :red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::white_large_square::white_large_square: |
 
  </div>
 </details>
