@@ -105,7 +105,7 @@ Peer-reviewed papers:
 - :pushpin: I’m currently learning _Streamlit_, _MongoDB_, ...
 - :pushpin: I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
 - :pushpin: Ask me about :dna: _Genetic Algorithms_ :dna:
-- :pushpin: How to reach me :mailbox:: [Twitter](https://twitter.com/imarranz)
+- :pushpin: I Love Data Visualization.
 - :pushpin: Fun fact: I'm a huge fan of The Lord of the Rings.
 
 <!--
