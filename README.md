@@ -1,4 +1,4 @@
-![](/figures/header.svg)
+![](/figures/header.png)
 
 ## About Me
 
