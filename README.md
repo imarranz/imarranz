@@ -1,4 +1,4 @@
-<p align = "center"> <b>About Me</b> </p>
+## About Me
 
 #### Hi 👋, I'm Ibon
 
@@ -99,7 +99,7 @@ Peer-reviewed papers:
 
 ***
 
-<p align = "center"> <b>More Details</b> </p>
+## More Details
 
 - :pushpin: I’m currently working as :bar_chart: Senior Data Scientist :bar_chart: @ OWL Metabolomics.
 - :pushpin: I’m currently learning _Streamlit_, _MongoDB_, ...
@@ -143,7 +143,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ***
 
-<p align = "center"> <b>Personal Projects</b> </p>
+## Personal Projects
 
 <table class="default" align="center" border=0>
   <tr>
@@ -159,7 +159,8 @@ https://github.com/anuraghazra/github-readme-stats#customization
 </table>
 
 ***
-<p align = "center"> <b>GitHub Stats</b> </p>
+
+## GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true" height = 180>
@@ -168,3 +169,9 @@ https://github.com/anuraghazra/github-readme-stats#customization
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=imarranz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height = 180>
 </p>
+
+***
+
+## :mailbox: How to Reach Me
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/imarranz) [<img alt="Twiter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imarranz) [<img alt="Gmail" src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](ibon.martinez@gmail.com)
