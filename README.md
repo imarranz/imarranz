@@ -176,4 +176,4 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ## :mailbox: How to Reach Me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/imarranz) [<img alt="Twiter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imarranz) [<img alt="Gmail" src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](ibon.martinez@gmail.com)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/imarranz) [<img alt="Twiter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imarranz) [<img alt="Gmail" src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ibon.martinez@gmail.com)
