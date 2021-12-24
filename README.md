@@ -75,7 +75,7 @@ Peer-reviewed papers:
  
 | TOPIC | SOFTWARE | SKILLS |
 |:-----:|:--------:|:------:|
-| Programming Languages for Data Science | Python<br>R<br>SQL | :red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
+| Programming Languages for Data Science | Python<br>R<br>SQL | :red_square::red_square::red_square::red_square::red_square:<br>:red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
 | Data Analysis | Pandas<br>Pingouin | :red_square::red_square::red_square::red_square::red_square:<br>:red_square::red_square::red_square::red_square::red_square: |
 | Data Computation | Numpy<br>Scipy  | :red_square::red_square::red_square::red_square::red_square:<br>:red_square::red_square::red_square::red_square::white_large_square: |
 | Data Bases | MySQL<br>SQLite<br>MongoDB | :red_square::red_square::red_square::white_large_square::white_large_square:<br>:red_square::red_square::red_square::red_square::white_large_square:<br>:red_square::red_square::white_large_square::white_large_square::white_large_square: |
