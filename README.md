@@ -108,7 +108,7 @@ Peer-reviewed papers:
 - :pushpin: I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
 - :pushpin: Ask me about :dna: _Genetic Algorithms_ :dna:
 - :pushpin: I Love Data Visualization :bar_chart::chart_with_upwards_trend::chart_with_downwards_trend:.
-- :pushpin: Fun fact: I'm a huge fan of The Lord of the Rings.
+- :pushpin: Fun fact: I'm a huge fan of The Lord of the Rings and LEGO&#xae; 
 
 <!--
 examples
