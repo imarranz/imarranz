@@ -33,7 +33,7 @@ Author of 21 publications. Google Scholar H-index = 13. Researcher unique identi
   * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
  
  #### Data Science of 'omics' data
-
+ 
 'Omics' research generates a large amount of data for every sample. OWL has established a well-defined workflow and a set of guidelines for analyzing omics data. It includes statistical design of experiments, data structuration and predictive modelling.  
 
 Peer-reviewed papers:  
@@ -43,9 +43,9 @@ Peer-reviewed papers:
   3. Arbelaiz A, _et al_. Serum extracellular vesicles contain protein biomarkers for primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2017; 10.1002/hep.29291.  
   4. Cano A, _et al_. A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients. Scientific Reports. 2017;7(1):10497.
 
-#### Predictive algorithms for disease diagnosis
+ #### Predictive algorithms for disease diagnosis
 
-We have developed predictive algorithms for several diseases. We have been really involved in the development and validation of the OWLiver, OWLiver F2+ and OWLiver DM2 tests.  
+ We have developed predictive algorithms for several diseases. We have been really involved in the development and validation of the OWLiver, OWLiver F2+ and OWLiver DM2 tests.  
 
 Peer-reviewed papers:  
 
@@ -54,9 +54,9 @@ Peer-reviewed papers:
   3. Herreros-Villanueva M, _et al_. Plasma MicroRNA Signature Validation for Early Detection of Colorectal Cancer. Clin Transl Gastroenterol. 2019 Jan;10(1).  
   4. Matorras R, _et al_. The lipidome of endometrial fluid differs between implantative and non-implantative IVF cycles. J Assist Reprod Genet. 2020;37(2):385-94.  
   5. Martínez-Arranz I, _et al_. Metabolomic-based noninvasive serum test to diagnose nonalcoholic steatohepatitis: Results from discovery and validation cohorts. Hepatol Commun. 2018 May 4;2(7):807-820.
-
+  
 #### Selected publications focused in Machine Learning and Modelling (within last 5 years)
-
+  
 Peer-reviewed papers:  
 
   1. Alonso C, _et al_. Metabolomic Identification of Subtypes of Nonalcoholic Steatohepatitis. Gastroenterology 2017;152(6):1449-61.  
