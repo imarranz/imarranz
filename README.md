@@ -210,6 +210,22 @@ Metabolomics Discloses a New Non-invasive Method for the Diagnosis and Prognosis
 
 - <a href="https://doi.org/10.1111/dom.13285"><img src="https://img.shields.io/badge/DOI-10.1111/dom.13285-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Use of a metabolomic approach to non-invasively diagnose non-alcoholic fatty liver disease in patients with type 2 diabetes mellitus. (2018)](https://doi.org/10.1111/dom.13285)**
 
+- <a href="https://doi.org/10.1002/hep4.1107"><img src="https://img.shields.io/badge/DOI-10.1002/hep4.1107-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Role of Aramchol in steatohepatitis and fibrosis in mice. (2017)](https://doi.org/10.1002/hep4.1107)**
+
+- <a href="https://doi.org/10.1038/s41598-017-10807-y"><img src="https://img.shields.io/badge/DOI-10.1038/s41598--017--10807--y-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients. (2017)](https://doi.org/10.1038/s41598-017-10807-y)**
+
+- <a href="https://doi.org/10.1053/j.gastro.2017.01.015"><img src="https://img.shields.io/badge/DOI-10.1053/j.gastro.2017.01.015-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomic Identification of Subtypes of Nonalcoholic Steatohepatitis. (2017)](https://doi.org/10.1053/j.gastro.2017.01.015)**
+
+- <a href="https://doi.org/10.1016/j.dib.2015.02.008"><img src="https://img.shields.io/badge/DOI-10.1016/j.dib.2015.02.008-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Data in support of enhancing metabolomics research through data mining. (2015)](https://doi.org/10.1016/j.dib.2015.02.008)**
+
+- <a href="https://doi.org/10.1016/j.jprot.2015.01.019"><img src="https://img.shields.io/badge/DOI-10.1016/j.jprot.2015.01.019-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Enhancing metabolomics research through data mining. (2015)](https://doi.org/10.1016/j.jprot.2015.01.019)**
+
+- <a href="https://doi.org/10.1002/hep.26399"><img src="https://img.shields.io/badge/DOI-10.1002/hep.26399-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Excess S-adenosylmethionine reroutes phosphatidylethanolamine towards phosphatidylcholine and triglyceride synthesis. (2013)](https://doi.org/10.1002/hep.26399)**
+
+- <a href="https://doi.org/10.1002/hep.26052"><img src="https://img.shields.io/badge/DOI-10.1002/hep.26052-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Solute carrier family 2 member 1 is involved in the development of nonalcoholic fatty liver disease. (2013)](https://doi.org/10.1002/hep.26052)**
+
+- <a href="https://doi.org/10.1021/pr201223p"><img src="https://img.shields.io/badge/DOI-10.1021/pr201223p-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Obesity-Dependent Metabolic Signatures Associated with Nonalcoholic Fatty Liver Disease Progression. (2012)](https://doi.org/10.1021/pr201223p)**
+
 </details>
 
 ***
