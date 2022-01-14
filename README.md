@@ -187,7 +187,20 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 - <a href="https://doi.org/10.1007/s11033-020-05245-5"><img src="https://img.shields.io/badge/DOI-10.1007/s11033--020--05245--5-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[CA19-9 capability as predictor of pancreatic cancer resectability in a Spanish cohort. (2020)](https://doi.org/10.1007/s11033-020-05245-5)**
 
+- <a href="https://doi.org/10.1007/s10815-019-01670-z"><img src="https://img.shields.io/badge/DOI-10.1007/s10815--019--01670--z-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[The lipidome of endometrial fluid differs between implantative and non-implantative IVF cycles. (2020)](https://doi.org/10.1007/s10815-019-01670-z)**
 
+- <a href="https://doi.org/10.14309/ctg.0000000000000031"><img src="https://img.shields.io/badge/DOI-10.14309/ctg.0000000000000031-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[
+Metabolomics Discloses a New Non-invasive Method for the Diagnosis and Prognosis of Patients with Alcoholic Hepatitis. (2019)](https://doi.org/10.14309/ctg.0000000000000031)**
+
+- <a href="https://doi.org/10.5604/01.3001.0012.7906"><img src="https://img.shields.io/badge/DOI-10.5604/01.3001.0012.7906-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomics Discloses a New Non-invasive Method for the Diagnosis and Prognosis of Patients with Alcoholic Hepatitis. (2019)](https://doi.org/10.5604/01.3001.0012.7906)**
+
+- <a href="https://doi.org/110.14309/ctg.0000000000000003"><img src="https://img.shields.io/badge/DOI-10.14309/ctg.0000000000000003-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Plasma MicroRNA Signature Validation for Early Detection of Colorectal Cancer. (2019)](https://doi.org/10.14309/ctg.0000000000000003)**
+
+- <a href="https://doi.org/10.1111/liv.14042"><img src="https://img.shields.io/badge/DOI-10.1111/liv.14042-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomics discloses potential biomarkers to predict the acute HVPG response to propranolol in patients with cirrhosis. (2019)](https://doi.org/10.1111/liv.14042)**
+
+- <a href="https://doi.org/10.1111/liv.14042"><img src="https://img.shields.io/badge/DOI-10.1111/liv.14042-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomics discloses potential biomarkers to predict the acute HVPG response to propranolol in patients with cirrhosis. (2019)](https://doi.org/10.1111/liv.14042)**
+
+- <a href="https://doi.org/10.1002/hep4.1270"><img src="https://img.shields.io/badge/DOI-10.1002/hep4.1270-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Obeticholic Acid Modulates Serum Metabolites and Gene Signatures Characteristic of Human NASH and Attenuates Inflammation and Fibrosis Progression in Ldlr-/-.Leiden Mice. (2018)](https://doi.org/110.1002/hep4.1270)**
 
 </details>
 
