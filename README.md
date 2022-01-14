@@ -176,6 +176,15 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 [<img alt="Pubmed" src="https://img.shields.io/badge/PubMed-326599.svg?&style=for-the-badge&logo=Pubmed&logoColor=white" />](https://pubmed.ncbi.nlm.nih.gov/?term=ibon+Martinez-Arranz) [<img alt="ORCID" src="https://img.shields.io/badge/ORCID-A5CD39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" />](https://orcid.org/0000-0001-9483-8426) [<img alt="Scopus" src="https://img.shields.io/badge/Scopus-F36E23.svg?&style=for-the-badge&logo=Scopus&logoColor=white" />](https://www.scopus.com/authid/detail.uri?authorId=55180708800)
 
+
+<details>
+<summary><b>Patents and Pendings</b></summary>
+<br>
+
+- <a href="https://doi.org/10.1098/rstb.2019.0668"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[The adaptive value of probability distortion and risk-seeking (2021)](https://github.com/aureliennioche/EvoProspect)**
+
+</details>
+
 ***
 
 ## :mailbox: How to Reach Me
