@@ -178,10 +178,11 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 
 <details>
-<summary><b>Patents and Pendings</b></summary>
+<summary><b>Publications</b></summary>
 <br>
 
-- <a href="https://doi.org/10.1098/rstb.2019.0668"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[The adaptive value of probability distortion and risk-seeking (2021)](https://github.com/aureliennioche/EvoProspect)**
+- <a href="https://doi.org/10.3390/cancers12061433"><img src="https://img.shields.io/badge/DOI-10.3390/cancers12061433-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[
+A Novel Serum Metabolomic Profile for the Differential Diagnosis of Distal Cholangiocarcinoma and Pancreatic Ductal Adenocarcinoma. (2020)](https://doi.org/10.3390/cancers12061433)**
 
 </details>
 
