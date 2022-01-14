@@ -200,7 +200,15 @@ Metabolomics Discloses a New Non-invasive Method for the Diagnosis and Prognosis
 
 - <a href="https://doi.org/10.1111/liv.14042"><img src="https://img.shields.io/badge/DOI-10.1111/liv.14042-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomics discloses potential biomarkers to predict the acute HVPG response to propranolol in patients with cirrhosis. (2019)](https://doi.org/10.1111/liv.14042)**
 
+- <a href="https://doi.org/10.1002/hep.30319"><img src="https://img.shields.io/badge/DOI-10.1002/hep.30319-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Serum Metabolites as Diagnostic Biomarkers for Cholangiocarcinoma, Hepatocellular Carcinoma, and Primary Sclerosing Cholangitis. (2019)](https://doi.org/10.1002/hep.30319)**
+
 - <a href="https://doi.org/10.1002/hep4.1270"><img src="https://img.shields.io/badge/DOI-10.1002/hep4.1270-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Obeticholic Acid Modulates Serum Metabolites and Gene Signatures Characteristic of Human NASH and Attenuates Inflammation and Fibrosis Progression in Ldlr-/-.Leiden Mice. (2018)](https://doi.org/110.1002/hep4.1270)**
+
+- <a href="https://doi.org/10.3390/cancers10090300"><img src="https://img.shields.io/badge/DOI-10.3390/cancers10090300-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Targeted UPLC-MS Metabolic Analysis of Human Faeces Reveals Novel Low-Invasive Candidate Markers for Colorectal Cancer. (2018)](https://doi.org/10.3390/cancers10090300)**
+
+- <a href="https://doi.org/10.1002/hep4.1188"><img src="https://img.shields.io/badge/DOI-10.1002/hep4.1188-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolomic-based noninvasive serum test to diagnose nonalcoholic steatohepatitis: Results from discovery and validation cohorts. (2018)](https://doi.org/10.1002/hep4.1188)**
+
+- <a href="https://doi.org/10.1111/dom.13285"><img src="https://img.shields.io/badge/DOI-10.1111/dom.13285-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Use of a metabolomic approach to non-invasively diagnose non-alcoholic fatty liver disease in patients with type 2 diabetes mellitus. (2018)](https://doi.org/10.1111/dom.13285)**
 
 </details>
 
