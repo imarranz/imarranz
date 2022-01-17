@@ -103,7 +103,7 @@ Peer-reviewed papers:
 
 ## More Details
 
-- :pushpin: I’m currently working as :bar_chart: Senior Data Scientist :bar_chart: @ OWL Metabolomics.
+- :pushpin: I’m currently working as :bar_chart: Senior Data Scientist :bar_chart: @ [OWL Metabolomics](https://www.owlmetabolomics.com/).
 - :pushpin: I’m currently learning [Streamlit](https://docs.streamlit.io/), [Panel](https://panel.holoviz.org/#) and [MongoDB](https://github.com/mongodb/mongo), ...
 - :pushpin: I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
 - :pushpin: Ask me about :dna: _Genetic Algorithms_ :dna:
