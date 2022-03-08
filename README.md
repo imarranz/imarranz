@@ -182,6 +182,8 @@ https://github.com/anuraghazra/github-readme-stats#customization
 <summary><b>Publications</b></summary>
 <br>
 
+- <a href="https://doi.org/10.1002/hep.32427"><img src="https://img.shields.io/badge/DOI-10.1002/hep.32427-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Metabolic subtypes of nonalcoholic fatty liver disease patients exhibit distinctive cardiovascular risk profiles. (2022)](https://doi.org/10.1002/hep.32427)**
+
 - <a href="https://doi.org/10.3390/cancers12061433"><img src="https://img.shields.io/badge/DOI-10.3390/cancers12061433-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[A Novel Serum Metabolomic Profile for the Differential Diagnosis of Distal Cholangiocarcinoma and Pancreatic Ductal Adenocarcinoma. (2020)](https://doi.org/10.3390/cancers12061433)**
 
 - <a href="https://doi.org/10.1053/j.gastro.2020.05.056"><img src="https://img.shields.io/badge/DOI-10.1053/j.gastro.2020.05.056-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Agonist of RORA Attenuates Nonalcoholic Fatty Liver Progression in Mice via Up-regulation of MicroRNA 122. (2020)](https://doi.org/10.1053/j.gastro.2020.05.056)**
