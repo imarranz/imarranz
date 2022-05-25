@@ -1,33 +1,5 @@
 ![](/figures/header.png)
 
-
-<script
-src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
-</script>
-
-
-<canvas id="myChart" style="width:100%;max-width:700px"></canvas>
-
-var xArray = [50,60,70,80,90,100,110,120,130,140,150];
-var yArray = [7,8,8,9,9,9,10,11,14,14,15];
-
-// Define Data
-var data = [{
-  x: xArray,
-  y: yArray,
-  mode:"markers",
-  type:"scatter"
-}];
-
-// Define Layout
-var layout = {
-  xaxis: {range: [40, 160], title: "Square Meters"},
-  yaxis: {range: [5, 16], title: "Price in Millions"},
-  title: "House Prices vs. Size"
-};
-
-Plotly.newPlot("myPlot", data, layout);
-
 ## About Me
 
 #### Hi 👋, I'm Ibon
@@ -132,23 +104,6 @@ Peer-reviewed papers:
 ## :microscope: Cientific Production
 
 [<img alt="Pubmed" src="https://img.shields.io/badge/PubMed-326599.svg?&style=for-the-badge&logo=Pubmed&logoColor=white" />](https://pubmed.ncbi.nlm.nih.gov/?term=ibon+Martinez-Arranz) [<img alt="ORCID" src="https://img.shields.io/badge/ORCID-A5CD39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" />](https://orcid.org/0000-0001-9483-8426) [<img alt="Scopus" src="https://img.shields.io/badge/Scopus-F36E23.svg?&style=for-the-badge&logo=Scopus&logoColor=white" />](https://www.scopus.com/authid/detail.uri?authorId=55180708800)
-
-
-var xValues = ["Italy", "France", "Spain", "USA", "Argentina"];
-var yValues = [55, 49, 44, 24, 15];
-var barColors = ["red", "green","blue","orange","brown"];
-
-new Chart("myChart", {
-  type: "bar",
-  data: {
-    labels: xValues,
-    datasets: [{
-      backgroundColor: barColors,
-      data: yValues
-    }]
-  },
-  options: {...}
-});
 
 
 <details>
