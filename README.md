@@ -113,7 +113,7 @@ Peer-reviewed papers:
 
 :yellow_square: NAFLD Disease :green_square: Subtypes :orange_square: Machine Learning and Modelling :purple_square: _In Vitro_ Diagnostic test
 
-| Article | DOI | Purpose |
+| ARTICLE | DOI | PURPOSE |
 |:--------|----:|:--------|
 | **[Metabolic subtypes of nonalcoholic fatty liver disease patients exhibit distinctive cardiovascular risk profiles. (2022)](https://doi.org/10.1002/hep.32427)** | <a href="https://doi.org/10.1002/hep.32427"><img src="https://img.shields.io/badge/DOI-10.1002/hep.32427-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> | :green_square::yellow_square::orange_square: |
 | **[A Novel Serum Metabolomic Profile for the Differential Diagnosis of Distal Cholangiocarcinoma and Pancreatic Ductal Adenocarcinoma. (2020)](https://doi.org/10.3390/cancers12061433)** | <a href="https://doi.org/10.3390/cancers12061433"><img src="https://img.shields.io/badge/DOI-10.3390/cancers12061433-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> | :orange_square: |
