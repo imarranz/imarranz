@@ -146,6 +146,7 @@ Peer-reviewed papers:
 - :pushpin: I’m currently working as :bar_chart: [Senior Data Scientist](https://www.owlmetabolomics.com/management-team-member.aspx?member=22) :bar_chart: @ [OWL Metabolomics](https://www.owlmetabolomics.com/).
 - :pushpin: I’m currently learning [Streamlit](https://docs.streamlit.io/), [Panel](https://panel.holoviz.org/#) and [MongoDB](https://github.com/mongodb/mongo), ...
 - :pushpin: I'm interested in: :man_scientist: Data Science :snake: Python :panda_face: Pandas :robot: Machine Learning :card_index_dividers: SQL and DataBases :bar_chart: Data Analysis :rocket: SKlearn 
+- :pushpin: I want to learn about: :gear: [awk](https://www.gnu.org/software/gawk/manual/gawk.html)
 - :pushpin: I use daily: `.ipynb`, `.py`, `.sql`, `.sqlite`, `.yaml`, `.R`, `.tex`, ...
 - :pushpin: Ask me about :dna: _Genetic Algorithms_ :dna:
 - :pushpin: I Love Data Visualization :bar_chart::chart_with_upwards_trend::chart_with_downwards_trend:.
