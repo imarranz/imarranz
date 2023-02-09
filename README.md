@@ -18,7 +18,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | National University of Distance Education (Spain) | MSc. | 07/2012 | Current Applied Statistics Techniques |
 | National University of Distance Education (Spain) | Expert degree | 07/2013 | Multivariate Statistical Techniques |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2022 | Applied Mathematics |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2023 | Applied Mathematics |
 
 Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
