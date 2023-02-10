@@ -205,7 +205,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 ## GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true&hide=html,javascript" height = 180>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true&hide=html,javascript&langs_count=6" height = 180>
   <img src = "https://github-readme-stats.vercel.app/api?username=imarranz&show_icons=true&hide_border=true&theme=dark" height = 180>
 </p>
 <p align = "center">
