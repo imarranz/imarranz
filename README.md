@@ -211,6 +211,9 @@ https://github.com/anuraghazra/github-readme-stats#customization
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=imarranz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height = 180>
 </p>
+<p align = "center">
+  [![imarranz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imarranz&theme=tokyo-night-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
 ***
 
