@@ -216,6 +216,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
   <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=imarranz&theme=tokyo-night&hide_border=true&line=FA8B00&point=FA8B00&color=FFFFFF&bg_color=151515&radius=16&area=true" height = 180>
 </p>
 -->
+
 ***
 
 ## :mailbox: How to Reach Me
