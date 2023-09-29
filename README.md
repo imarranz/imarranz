@@ -26,7 +26,7 @@ Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to
 <details>
 <summary><b>Contributions to Science</b></summary>  
 <br>
-Author of 22 publications. Google Scholar H-index = 14. Researcher unique identifier  
+Author of 23 publications. Google Scholar H-index = 15. Researcher unique identifier
 
   * :books: [ORCID](https://orcid.org/0000-0001-9483-8426)  
   * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
