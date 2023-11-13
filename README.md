@@ -193,15 +193,17 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 <table class="default" align="center" border=0>
   <tr>
-    <td><a title="pygenmet" href="https://github.com/imarranz/pygenmet"><img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 330></a></td>
-    <td><img src = "https://repository-images.githubusercontent.com/717559382/ec86779c-43cc-4328-9a1d-346c44289c15" width = 330></td>
-    <td><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></td>
+    <td><a title="pygenmet" href="https://github.com/imarranz/pygenmet" target="_blank"><img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 330></a></td>
+    <td><a title="Aventuras de Programación en Python en la Isla del Tesoro" href="https://github.com/imarranz/aventuras-programacion-python-isla-del-tesoro" target="_blank"><img src = "https://repository-images.githubusercontent.com/717559382/ec86779c-43cc-4328-9a1d-346c44289c15" width = 330></a></td>
+    <td><a title="CL4DS" href="https://github.com/imarranz/cl4ds" target="_blank"><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></a></td>
   </tr>
+<!--
   <tr>
     <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=pygenmet&theme=dark&show_owner=true" width = 330></td>
     <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=aventuras-programacion-python-isla-del-tesoro&theme=dark&show_owner=true" width = 330></td>
     <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=cl4ds&theme=dark&show_owner=true" width = 330></td>
   </tr>
+-->
 </table>
 
 
