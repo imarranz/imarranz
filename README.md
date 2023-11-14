@@ -193,12 +193,12 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 <table class="default" align="center" border=0>
   <tr>
-    <td>PYGENMET<br><a title="pygenmet" href="https://github.com/imarranz/pygenmet" target="_blank"><img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 330></a></td>
-    <td>Aventuras de programación en Python en la Isla del Tesoro<br><a title="Aventuras de Programación en Python en la Isla del Tesoro" href="https://github.com/imarranz/aventuras-programacion-python-isla-del-tesoro" target="_blank"><img src = "https://repository-images.githubusercontent.com/717559382/ec86779c-43cc-4328-9a1d-346c44289c15" width = 330></a></td>
+    <td><a title="pygenmet" href="https://github.com/imarranz/pygenmet" target="_blank"><img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 330></a></td>
+    <td><a title="Aventuras de Programación en Python en la Isla del Tesoro" href="https://github.com/imarranz/aventuras-programacion-python-isla-del-tesoro" target="_blank"><img src = "https://repository-images.githubusercontent.com/717559382/ec86779c-43cc-4328-9a1d-346c44289c15" width = 330></a></td>
   </tr>
   <tr>
     <td><a title="CL4DS" href="https://github.com/imarranz/cl4ds" target="_blank"><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></a></td>
-    <td><a title="CL4DS" href="https://github.com/imarranz/cl4ds" target="_blank"><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></a></td>
+    <td><a title="Modelling Football Scores" href="https://github.com/imarranz/modelling-football-scores" target="_blank"><img src = "https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608" width = 330></a></td>
   </tr>
 <!--
   <tr>
@@ -208,7 +208,6 @@ https://github.com/anuraghazra/github-readme-stats#customization
   </tr>
 -->
 </table>
-
 
 ***
 
