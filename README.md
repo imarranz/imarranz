@@ -33,7 +33,46 @@ Author of 24 publications. Scopus H-index = 16. Researcher unique identifier
   * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
 
 
+<!--
+https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/#9-mixed-chart
+-->
+
+
+```chart
+{
+  "type": "pie",
+  "data": {
+    "labels": [
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    "datasets": [
+      {
+        "data": [
+          300,
+          50,
+          100
+        ],
+        "backgroundColor": [
+          "#FF6384",
+          "#36A2EB",
+          "#FFCE56"
+        ],
+        "hoverBackgroundColor": [
+          "#FF6384",
+          "#36A2EB",
+          "#FFCE56"
+        ]
+      }
+    ]
+  },
+  "options": {}
+}
+```
+
 <canvas id="mixed-chart" width="800" height="450"></canvas>
+
 new Chart(document.getElementById("mixed-chart"), {
     type: 'bar',
     data: {
