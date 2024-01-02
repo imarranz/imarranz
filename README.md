@@ -10,15 +10,15 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 <summary><b>Education</b></summary>
 <br>
  
-| INSTITUTION<br>AND LOCATION | DEGREE | COMPLETION<br>DATE | FIELD OF<br>STUDY |
-|-------------------------:|:------:|:---------------:|:---------------|
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc. | 06/2003 | Mathematics |
-| National University of Distance Education (Spain) | Expert degree | 07/2007 | Statistics Applied to Health Sciences |
-| National University of Distance Education (Spain) | Expert degree | 07/2008 | Advanced Methods of Applied Statistics |
-| National University of Distance Education (Spain) | MSc. | 07/2012 | Current Applied Statistics Techniques |
-| National University of Distance Education (Spain) | Expert degree | 07/2013 | Multivariate Statistical Techniques |
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2023 | Applied Mathematics |
+| INSTITUTION<br>AND LOCATION                            | DEGREE        | COMPLETION<br>DATE | FIELD OF<br>STUDY                                           |
+|-------------------------------------------------------:|:-------------:|:------------------:|:------------------------------------------------------------|
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc.          | 06/2003            | Mathematics                                                 |
+| National University of Distance Education (Spain)      | Expert degree | 07/2007            | Statistics Applied to Health Sciences                       |
+| National University of Distance Education (Spain)      | Expert degree | 07/2008            | Advanced Methods of Applied Statistics                      |
+| National University of Distance Education (Spain)      | MSc.          | 07/2012            | Current Applied Statistics Techniques                       |
+| National University of Distance Education (Spain)      | Expert degree | 07/2013            | Multivariate Statistical Techniques                         |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | 05/2016            | Mathematical Modeling, Statistical Analysis and Computation |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD.  | Expected 2024      | Applied Mathematics                                         |
 
 Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
@@ -26,13 +26,55 @@ Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to
 <details>
 <summary><b>Contributions to Science</b></summary>  
 <br>
-Author of 23 publications. Google Scholar H-index = 15. Researcher unique identifier
+Author of 24 publications. Scopus H-index = 16. Researcher unique identifier
 
   * :books: [ORCID](https://orcid.org/0000-0001-9483-8426)  
   * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
   * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
- 
- #### Data Science of 'omics' data
+
+
+<canvas id="mixed-chart" width="800" height="450"></canvas>
+new Chart(document.getElementById("mixed-chart"), {
+    type: 'bar',
+    data: {
+      labels: ["1900", "1950", "1999", "2050"],
+      datasets: [{
+          label: "Europe",
+          type: "line",
+          borderColor: "#8e5ea2",
+          data: [408,547,675,734],
+          fill: false
+        }, {
+          label: "Africa",
+          type: "line",
+          borderColor: "#3e95cd",
+          data: [133,221,783,2478],
+          fill: false
+        }, {
+          label: "Europe",
+          type: "bar",
+          backgroundColor: "rgba(0,0,0,0.2)",
+          data: [408,547,675,734],
+        }, {
+          label: "Africa",
+          type: "bar",
+          backgroundColor: "rgba(0,0,0,0.2)",
+          backgroundColorHover: "#3e95cd",
+          data: [133,221,783,2478]
+        }
+      ]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Population growth (millions): Europe & Africa'
+      },
+      legend: { display: false }
+    }
+});
+
+
+#### Data Science of 'omics' data
  
 'Omics' research generates a large amount of data for every sample. OWL has established a well-defined workflow and a set of guidelines for analyzing omics data. It includes statistical design of experiments, data structuration and predictive modelling.  
 
