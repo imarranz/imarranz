@@ -36,7 +36,6 @@ Author of 24 publications. Scopus H-index = 16. Researcher unique identifier
 <!--
 https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/#9-mixed-chart
 https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
--->
 
 ```vega-lite
 {
@@ -211,7 +210,7 @@ new Chart(document.getElementById("mixed-chart"), {
       legend: { display: false }
     }
 });
-
+-->
 
 #### Data Science of 'omics' data
  
