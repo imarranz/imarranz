@@ -396,8 +396,8 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 <table class="default" align="center" border=0>
   <tr>
-    <td><a title="Nagel-Schreckenberg Model" href="https://github.com/imarranz/nagel-schreckenberg-model" target="_blank"><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></a></td>
-    <td><a title="Zipf Law Application" href="https://github.com/imarranz/lotr-zipf-law-application" target="_blank"><img src = "https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608" width = 330></a></td>
+    <td><a title="Nagel-Schreckenberg Model" href="https://github.com/imarranz/nagel-schreckenberg-model" target="_blank"><img src = "https://repository-images.githubusercontent.com/741367698/c7000baf-1fa6-4cde-b86b-b62ef9ab31c7" width = 330></a></td>
+    <td><a title="Zipf Law Application" href="https://github.com/imarranz/lotr-zipf-law-application" target="_blank"><img src = "https://repository-images.githubusercontent.com/738877004/8e27d637-618f-4c4e-90e2-4e0f2eb364f3" width = 330></a></td>
   </tr>
   <tr>
     <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=nagel-schreckenberg-model&theme=dark&show_owner=true" width = 330></td>
