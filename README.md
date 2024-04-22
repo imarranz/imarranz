@@ -2,6 +2,18 @@
 
 ## About Me
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+
 #### Hi 👋, I'm Ibon
 
 I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, I joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and my work was mainly focused on the epidemiological report of renal patients. When I joined OWL Metabolomics in 2010, first I worked as a researcher in the Metabolomics Department and in 2017, I became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This high experience provide support to metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
