@@ -1,6 +1,6 @@
 ![](/figures/header.png)
 
-## About Me
+## :man_technologist: About Me
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -420,7 +420,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ***
 
-## GitHub Stats
+## :fire: GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imarranz&layout=compact&theme=dark&hide_border=true&hide=html,javascript&langs_count=6" height = 180>
