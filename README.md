@@ -335,7 +335,7 @@ Peer-reviewed papers:
 
 ***
 
-## More Details
+## :mag: More Details
 
 - :pushpin: I’m currently working as :bar_chart: [Senior Data Scientist](https://www.owlmetabolomics.com/management-team-member.aspx?member=22) :bar_chart: @ [OWL Metabolomics](https://www.owlmetabolomics.com/).
 - :pushpin: I’m currently learning [Streamlit](https://docs.streamlit.io/), [Panel](https://panel.holoviz.org/#) and [MongoDB](https://github.com/mongodb/mongo), ...
@@ -381,7 +381,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ***
 
-## Personal Projects
+## :rocket: Personal Projects
 
 <table class="default" align="center" border=0>
   <tr>
