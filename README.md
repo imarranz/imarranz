@@ -2,17 +2,7 @@
 
 ## :man_technologist: About Me
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
 
 #### Hi 👋, I'm Ibon
 
@@ -439,4 +429,5 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 ## :mailbox: How to Reach Me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/imarranz) [<img alt="Twiter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imarranz) [<img alt="Gmail" src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ibon.martinez@gmail.com) 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/imarranz) [<img alt="Twiter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imarranz) [<img alt="Gmail" src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ibon.martinez@gmail.com) [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibon-mart%C3%ADnez-arranz/)
+
