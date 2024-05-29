@@ -388,7 +388,7 @@ https://github.com/anuraghazra/github-readme-stats#customization
 <table class="default" align="center" border=0>
   <tr>
     <td><a title="CL4DS" href="https://github.com/imarranz/cl4ds" target="_blank"><img src = "https://repository-images.githubusercontent.com/684450505/9880991c-f1bd-48c5-8aa8-a4164edcf19c" width = 330></a></td>
-    <td><a title="Modelling Football Scores" href="https://github.com/imarranz/modelling-football-scores" target="_blank"><img src = "https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608" width = 330></a></td>
+    <td><a title="Modelling Football Scores" href="https://github.com/imarranz/modelling-football-scores" target="_blank"><img src = "https://repository-images.githubusercontent.com/598706236/610a8371-6e9a-4198-a696-7cbeb32d6325" width = 330></a></td>
   </tr>
   <tr>
     <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=cl4ds&theme=dark&show_owner=true" width = 330></td>
