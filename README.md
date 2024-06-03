@@ -375,6 +375,17 @@ https://github.com/anuraghazra/github-readme-stats#customization
 
 <table class="default" align="center" border=0>
   <tr>
+    <td><a title="pygenmet" href="https://github.com/imarranz/data-science-workflow-management" target="_blank"><img src = "https://repository-images.githubusercontent.com/428254657/e5d82c29-6b41-4d2b-b115-3e17ab3f8de7" width = 330></a></td>
+    <td><a title="Essential Guide to Pandas" href="https://github.com/imarranz/essential-guide-to-pandas" target="_blank"><img src = "https://repository-images.githubusercontent.com/804571471/4c091242-e375-4277-9a71-b270a65e9099" width = 330></a></td>
+  </tr>
+  <tr>
+    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=data-science-workflow-management&theme=dark&show_owner=true" width = 330></td>
+    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=imarranz&repo=essential-guide-to-pandas&theme=dark&show_owner=true" width = 330></td>
+  </tr>
+</table>
+
+<table class="default" align="center" border=0>
+  <tr>
     <td><a title="pygenmet" href="https://github.com/imarranz/pygenmet" target="_blank"><img src = "https://repository-images.githubusercontent.com/267831777/fd53ba00-e08f-11eb-8c72-751f6828e0b9" width = 330></a></td>
     <td><a title="Aventuras de Programación en Python en la Isla del Tesoro" href="https://github.com/imarranz/aventuras-programacion-python-isla-del-tesoro" target="_blank"><img src = "https://repository-images.githubusercontent.com/717559382/ec86779c-43cc-4328-9a1d-346c44289c15" width = 330></a></td>
   </tr>
