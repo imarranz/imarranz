@@ -28,7 +28,7 @@ Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to
 <details>
 <summary><b>Contributions to Science</b></summary>  
 <br>
-Author of 24 publications. Scopus [h-index](https://en.wikipedia.org/wiki/H-index) = 17. Researcher unique identifier
+Author of 24 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index">h-index</a> = 17. Researcher unique identifier
 
   * :books: [ORCID](https://orcid.org/0000-0001-9483-8426)  
   * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
