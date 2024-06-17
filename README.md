@@ -30,6 +30,7 @@ Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to
 <br>
 Author of 24 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index">h-index</a> = 17. Researcher unique identifier
 
+<!--
   * :books: [ORCID](https://orcid.org/0000-0001-9483-8426)  
   * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
   * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
@@ -37,6 +38,11 @@ Author of 24 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index
   * <a href= "https://orcid.org/0000-0001-9483-8426"><img src="https://a11ybadges.com/badge?logo=orcid" alt="ORCID"/></a>
   * <a href= "https://www.scopus.com/authid/detail.uri?authorId=55180708800"><img src="https://a11ybadges.com/badge?logo=scopus" alt="Scopus"/></a>
   * <a href= "https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D"><img src="https://a11ybadges.com/badge?logo=pubmed" alt="PubMed"/></a>
+-->
+
+  * [<img alt="Pubmed" src="https://img.shields.io/badge/PubMed-326599.svg?&style=for-the-badge&logo=Pubmed&logoColor=white" />](https://pubmed.ncbi.nlm.nih.gov/?term=ibon+Martinez-Arranz)
+  * [<img alt="ORCID" src="https://img.shields.io/badge/ORCID-A5CD39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" />](https://orcid.org/0000-0001-9483-8426)
+  * [<img alt="Scopus" src="https://img.shields.io/badge/Scopus-F36E23.svg?&style=for-the-badge&logo=Scopus&logoColor=white" />](https://www.scopus.com/authid/detail.uri?authorId=55180708800)
 
 <!--
 https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/#9-mixed-chart
