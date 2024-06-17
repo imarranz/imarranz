@@ -40,7 +40,7 @@ Author of 24 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index
   * <a href= "https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D"><img src="https://a11ybadges.com/badge?logo=pubmed" alt="PubMed"/></a>
 -->
 
-<div align="center">
+<br><div align="center">
 <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ibon+Martinez-Arranz"><img alt="Pubmed" src="https://img.shields.io/badge/PubMed-326599.svg?&style=for-the-badge&logo=Pubmed&logoColor=white" /></a> <a href="https://orcid.org/0000-0001-9483-8426"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A5CD39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" /></a> <a href="https://www.scopus.com/authid/detail.uri?authorId=55180708800"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-F36E23.svg?&style=for-the-badge&logo=Scopus&logoColor=white" /></a>
 </div>
 
