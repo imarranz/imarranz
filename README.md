@@ -261,8 +261,8 @@ Peer-reviewed papers:
 <details>
 <summary><b>Skills</b></summary> 
 <br> 
- 
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/><img src="https://img.shields.io/badge/-scikit-learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/-Conda-Forge-000000?style=flat&logo=condaforge&logoColor=white"/><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/><img src="https://img.shields.io/badge/-sklearn-3499CD?style=flat&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/-conda-555555?style=flat&logo=condaforge&logoColor=white"/><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
 
 <div align="center">
 
