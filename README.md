@@ -34,6 +34,9 @@ Author of 24 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index
   * :books: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55180708800)  
   * :books: [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D)
 
+  * <a href= "https://orcid.org/0000-0001-9483-8426"><img src="https://a11ybadges.com/badge?logo=orcid" alt="ORCID"/></a>
+  * <a href= "https://www.scopus.com/authid/detail.uri?authorId=55180708800"><img src="https://a11ybadges.com/badge?logo=scopus" alt="Scopus"/></a>
+  * <a href= "https://www.ncbi.nlm.nih.gov/pubmed?term=Ibon%20Martinez-Arranz%5BAuthor%5D"><img src="https://a11ybadges.com/badge?logo=pubmed" alt="PubMed"/></a>
 
 <!--
 https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/#9-mixed-chart
