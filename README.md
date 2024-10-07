@@ -308,7 +308,7 @@ Peer-reviewed papers:
 :yellow_square: NAFLD Disease :green_square: Subtypes :orange_square: Machine Learning and Modelling :purple_square: _In Vitro_ Diagnostic test
 
 | ARTICLE | DOI | PURPOSE |
-|:--------|----:|:--------|
+|:--------|:---:|:--------|
 | **[Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models](https://doi.org/10.1016/j.cmpb.2024.108346)** | <a href="https://doi.org/10.1016/j.cmpb.2024.108346"><img src="https://img.shields.io/badge/DOI-10.1016/j.cmpb.2024.108346-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> | :orange_square::green_square::yellow_square: |
 | **[Serum identification of At-Risk MASH: The Metabolomics-Advanced steatohepatitis fibrosis score (MASEF)](https://doi.org/10.1097/hep.0000000000000542)** | <a href="https://doi.org/10.1097/hep.0000000000000542"><img src="https://img.shields.io/badge/DOI-10.1097/hep.0000000000000542-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> | :yellow_square::orange_square::purple_square: |
 | **[Role of Intracellular Drug Disposition in the Response of Acute Myeloid Leukemia to Cytarabine and Idarubicin Induction Chemotherapy. (2023)](https://doi.org/10.3390/cancers15123145)** | <a href="https://doi.org/10.3390/cancers15123145"><img src="https://img.shields.io/badge/DOI-10.3390/cancers15123145-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> | :orange_square: |
