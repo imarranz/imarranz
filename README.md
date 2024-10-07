@@ -251,10 +251,10 @@ Peer-reviewed papers:
 Peer-reviewed papers:  
 
   1. Alonso C, _et al_. Metabolomic Identification of Subtypes of Nonalcoholic Steatohepatitis. Gastroenterology 2017;152(6):1449-61.  
-  2. Iruarrizaga-Lejarreta M, _et al_. Role of Aramchol in steatohepatitis and fibrosis in mice. Hepatology Communications 2017;1(9):911-27.  
-  3. Banales JM, _et al_. Serum metabolites as diagnostic biomarkers for cholangiocarcinoma, hepatocellular carcinoma and primary sclerosing cholangitis. Hepatology 2019;70(2):547-65.  
-  4. Herreros-Villanueva M, _et al_. Plasma MicroRNA Signature Validation for Early Detection of Colorectal Cancer. Clin Transl Gastroenterol. 2019 Jan;10(1).  
-  5. Matorras R, _et al_. The lipidome of endometrial fluid differs between implantative and non-implantative IVF cycles. J Assist Reprod Genet. 2020;37(2):385-94.  
+  2. Banales JM, _et al_. Serum metabolites as diagnostic biomarkers for cholangiocarcinoma, hepatocellular carcinoma and primary sclerosing cholangitis. Hepatology 2019;70(2):547-65.
+  3. Herreros-Villanueva M, _et al_. Plasma MicroRNA Signature Validation for Early Detection of Colorectal Cancer. Clin Transl Gastroenterol. 2019 Jan;10(1).
+  4. Matorras R, _et al_. The lipidome of endometrial fluid differs between implantative and non-implantative IVF cycles. J Assist Reprod Genet. 2020;37(2):385-94.
+  5. Martínez-Arranz I, Alonso C, Mayo R, Mincholé I, Mato JM, Lee DJ. Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models. Comput Methods Programs Biomed. 2024 Oct;255:108346. doi: 10.1016/j.cmpb.2024.108346.
  
 </details>
 
