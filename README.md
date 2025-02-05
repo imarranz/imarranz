@@ -20,7 +20,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | National University of Distance Education (Spain)      | MSc.          | 07/2012            | Current Applied Statistics Techniques                       |
 | National University of Distance Education (Spain)      | Expert degree | 07/2013            | Multivariate Statistical Techniques                         |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | 05/2016            | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD.  | Expected 2024      | Applied Mathematics                                         |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD.  | Expected 2025      | Applied Mathematics                                         |
 
 Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
@@ -169,7 +169,7 @@ Peer-reviewed papers:
 
 <table class="default" align="center" border=0>
   <tr>
-    <td><a title="pygenmet" href="https://github.com/imarranz/data-science-workflow-management" target="_blank"><img src = "https://repository-images.githubusercontent.com/428254657/e5d82c29-6b41-4d2b-b115-3e17ab3f8de7" width = 330></a></td>
+    <td><a title="Data Science Workflow Management" href="https://github.com/imarranz/data-science-workflow-management" target="_blank"><img src = "https://repository-images.githubusercontent.com/428254657/e5d82c29-6b41-4d2b-b115-3e17ab3f8de7" width = 330></a></td>
     <td><a title="Essential Guide to Pandas" href="https://github.com/imarranz/essential-guide-to-pandas" target="_blank"><img src = "https://repository-images.githubusercontent.com/804571471/4c091242-e375-4277-9a71-b270a65e9099" width = 330></a></td>
   </tr>
   <tr>
