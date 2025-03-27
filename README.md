@@ -74,11 +74,7 @@ Peer-reviewed papers:
 <summary><b>Skills</b></summary> 
 <br> 
 
-<div align="center">
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/><br><img src="https://img.shields.io/badge/-sklearn-3499CD?style=flat&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/-conda-555555?style=flat&logo=condaforge&logoColor=white"/><br><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
-</div>
-<br><br>
-<div style="zoom: 1.5;">
+<div align="center" style="zoom: 2.5;">
 <!-- Core Languages & Environments -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
