@@ -22,7 +22,7 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | 05/2016            | Mathematical Modeling, Statistical Analysis and Computation |
 | University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD.  | Expected 2025      | Applied Mathematics                                         |
 
-Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
+Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of MASLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 </details>
 
 <details>
@@ -46,7 +46,7 @@ Peer-reviewed papers:
   3. Arbelaiz A, _et al_. Serum extracellular vesicles contain protein biomarkers for primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2017; 10.1002/hep.29291.  
   4. Cano A, _et al_. A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients. Scientific Reports. 2017;7(1):10497.
 
- #### Predictive algorithms for disease diagnosis
+#### Predictive algorithms for disease diagnosis
 
  We have developed predictive algorithms for several diseases. We have been really involved in the development and validation of the OWLiver, OWLiver F2+ and OWLiver DM2 tests.  
 
@@ -58,7 +58,7 @@ Peer-reviewed papers:
   4. Matorras R, _et al_. The lipidome of endometrial fluid differs between implantative and non-implantative IVF cycles. J Assist Reprod Genet. 2020;37(2):385-94.  
   5. Martínez-Arranz I, _et al_. Metabolomic-based noninvasive serum test to diagnose nonalcoholic steatohepatitis: Results from discovery and validation cohorts. Hepatol Commun. 2018 May 4;2(7):807-820.
   
-#### Selected publications focused in Machine Learning and Modelling (within last 5 years)
+#### Selected publications focused in Machine Learning and Modelling
   
 Peer-reviewed papers:  
 
@@ -77,7 +77,57 @@ Peer-reviewed papers:
 <div align="center">
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/><br><img src="https://img.shields.io/badge/-sklearn-3499CD?style=flat&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/-conda-555555?style=flat&logo=condaforge&logoColor=white"/><br><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
 </div>
+<br><br>
+<div style="zoom: 1.5;">
+<!-- Core Languages & Environments -->
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-conda-555555?style=flat&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
 
+<!-- Data Analysis & Wrangling -->
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Seaborn-9D55B9?style=flat&logo=seaborn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bokeh-AA3980?style=flat&logo=bokeh&logoColor=white"/>
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/-scikit--learn-3499CD?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-XGBoost-EC7027?style=flat&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LightGBM-408020?style=flat&logo=lightgbm&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+
+<!-- MLOps / Deployment -->
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
+
+<!-- Cloud & Tools -->
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
+
+<!-- Version Control & Notebooks -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+
+<!-- R Ecosystem -->
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
+</div>
+
+<br><br>
 <div align="center">
 
 | TOPIC | SOFTWARE | SKILLS |
