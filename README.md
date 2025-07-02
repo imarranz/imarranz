@@ -22,7 +22,8 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | May 2016            | Mathematical Modeling, Statistical Analysis and Computation |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | PhD.  | June 2025      | Applied Mathematics                                         |
 
-Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of MASLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
+I completed a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in MASH: Learning from Mouse Models**, where I applied :dna: genetic algorithms :dna: to identify MASLD subtypes. This methodology can be extended to other diseases driven by metabolic changes. The work contributes to the advancement of precision medicine by enabling more targeted and effective interventions.
+
 </details>
 
 <details>
