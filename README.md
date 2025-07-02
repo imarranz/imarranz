@@ -14,12 +14,12 @@ I am Ibon Martínez-Arranz and I got my BSc. in Mathematics from the University 
  
 | INSTITUTION<br>AND LOCATION                            | DEGREE        | COMPLETION<br>DATE | FIELD OF<br>STUDY                                           |
 |-------------------------------------------------------:|:-------------:|:------------------:|:------------------------------------------------------------|
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc.          | 06/2003            | Mathematics                                                 |
-| National University of Distance Education (Spain)      | Expert degree | 07/2007            | Statistics Applied to Health Sciences                       |
-| National University of Distance Education (Spain)      | Expert degree | 07/2008            | Advanced Methods of Applied Statistics                      |
-| National University of Distance Education (Spain)      | MSc.          | 07/2012            | Current Applied Statistics Techniques                       |
-| National University of Distance Education (Spain)      | Expert degree | 07/2013            | Multivariate Statistical Techniques                         |
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | 05/2016            | Mathematical Modeling, Statistical Analysis and Computation |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc.          | June 2003            | Mathematics                                                 |
+| National University of Distance Education (Spain)      | Expert degree | July 2007            | Statistics Applied to Health Sciences                       |
+| National University of Distance Education (Spain)      | Expert degree | July 2008            | Advanced Methods of Applied Statistics                      |
+| National University of Distance Education (Spain)      | MSc.          | July 2012            | Current Applied Statistics Techniques                       |
+| National University of Distance Education (Spain)      | Expert degree | July 2013            | Multivariate Statistical Techniques                         |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | May 2016            | Mathematical Modeling, Statistical Analysis and Computation |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | PhD.  | June 2025      | Applied Mathematics                                         |
 
 Currently, I am doing a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models** in which I apply :dna: genetic algorithms :dna: for the selection of MASLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
