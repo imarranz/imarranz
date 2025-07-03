@@ -33,7 +33,7 @@ I completed a doctoral thesis entitled **Genetic Algorithms Applied to Translati
 <details>
 <summary><b>Contributions to Science</b></summary>  
 <br>
-Author of 27 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index">h-index</a> = 18. Researcher unique identifier
+Author of 27 publications. Scopus <a href="https://en.wikipedia.org/wiki/H-index">h-index</a> = 19. Researcher unique identifier
 
 <br><div align="center">
 <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ibon+Martinez-Arranz"><img alt="Pubmed" src="https://img.shields.io/badge/PubMed-326599.svg?&style=for-the-badge&logo=Pubmed&logoColor=white" /></a> <a href="https://orcid.org/0000-0001-9483-8426"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A5CD39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" /></a> <a href="https://www.scopus.com/authid/detail.uri?authorId=55180708800"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-F36E23.svg?&style=for-the-badge&logo=Scopus&logoColor=white" /></a>
