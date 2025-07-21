@@ -10,7 +10,7 @@ I am Ibon Martínez-Arranz. I hold a BSc in Mathematics from the University of t
 
 In 2010, I joined OWL Metabolomics (now Rubió Metabolomics), initially as a researcher in the Metabolomics Department. Since 2017, I have been leading the Data Science Department, overseeing predictive modeling and statistical computing. My work supports metabolomics services, laboratory processes, data handling, R&D projects, and technology transfer.
 
-In 2025, I completed a PhD in Biomedical Sciences, with a thesis focused on the application of :dna: genetic algorithms :dna: for the identification of MASLD subtypes, bridging computational approaches with translational medicine and contributing to the field of precision medicine.
+In 2025, I completed a PhD in Mathematics and Statistics, with a thesis focused on the application of :dna: genetic algorithms :dna: for the identification of MASLD subtypes, bridging computational approaches with translational medicine and contributing to the field of precision medicine.
 
 <details>
 <summary><b>Education</b></summary>
@@ -18,13 +18,13 @@ In 2025, I completed a PhD in Biomedical Sciences, with a thesis focused on the 
  
 | INSTITUTION<br>AND LOCATION                            | DEGREE        | COMPLETION<br>DATE | FIELD OF<br>STUDY                                           |
 |-------------------------------------------------------:|:-------------:|:------------------:|:------------------------------------------------------------|
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc.          | June 2003            | Mathematics                                                 |
-| National University of Distance Education (Spain)      | Expert degree | July 2007            | Statistics Applied to Health Sciences                       |
-| National University of Distance Education (Spain)      | Expert degree | July 2008            | Advanced Methods of Applied Statistics                      |
-| National University of Distance Education (Spain)      | MSc.          | July 2012            | Current Applied Statistics Techniques                       |
-| National University of Distance Education (Spain)      | Expert degree | July 2013            | Multivariate Statistical Techniques                         |
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | May 2016            | Mathematical Modeling, Statistical Analysis and Computation |
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | PhD.  | June 2025      | Applied Mathematics                                         |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc.          | June 2003          | Mathematics                                                 |
+| National University of Distance Education (Spain)      | Expert degree | July 2007          | Statistics Applied to Health Sciences                       |
+| National University of Distance Education (Spain)      | Expert degree | July 2008          | Advanced Methods of Applied Statistics                      |
+| National University of Distance Education (Spain)      | MSc.          | July 2012          | Current Applied Statistics Techniques                       |
+| National University of Distance Education (Spain)      | Expert degree | July 2013          | Multivariate Statistical Techniques                         |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc.          | May 2016           | Mathematical Modeling, Statistical Analysis and Computation |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | PhD.          | June 2025          | Mathematics and Statistics                                  |
 
 I completed a doctoral thesis entitled **Genetic Algorithms Applied to Translational Strategy in MASH: Learning from Mouse Models**, where I applied :dna: genetic algorithms :dna: to identify MASLD subtypes. This methodology can be extended to other diseases driven by metabolic changes. The work contributes to the advancement of precision medicine by enabling more targeted and effective interventions.
 
