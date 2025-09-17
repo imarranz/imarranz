@@ -2,7 +2,9 @@
 
 ## :man_technologist: About Me
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=imarranz&style=flat-square&color=blue" alt=""/>
+-->
 <img src="https://img.shields.io/github/stars/imarranz?affiliations=OWNER&label=total%20stars&style=flat-square&color=blue" alt=""/>
 
 #### Hi 👋, I'm Ibon
