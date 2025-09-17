@@ -2,15 +2,16 @@
 
 ## :man_technologist: About Me
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=imarranz&style=flat-square&color=blue" alt=""/>
+<img src="https://img.shields.io/github/stars/imarranz?affiliations=OWNER&label=total%20stars&style=flat-square&color=blue" alt=""/>
 
 #### Hi 👋, I'm Ibon
 
-I am Ibon Martínez-Arranz. I hold a BSc in Mathematics from the University of the Basque Country (EHU/UPV), as well as two MSc degrees: one in Current Applied Statistics Techniques and another in Mathematical Modeling Research, Statistical Analysis, and Computing Sciences. In 2004, I joined the Basque Country Health Service (Department of Health of the Basque Government and Osakidetza) as a data analyst, focusing primarily on epidemiological reports for renal patients.
+I am Ibon Martínez-Arranz. I hold a **BSc in Mathematics** from the University of the Basque Country (EHU/UPV), as well as two **MSc degrees**: one in **Current Applied Statistics Techniques** and another in **Mathematical Modeling Research, Statistical Analysis, and Computing Sciences**. In 2004, I joined the Basque Country Health Service (Department of Health of the Basque Government and Osakidetza) as a data analyst, focusing primarily on epidemiological reports for renal patients.
 
 In 2010, I joined OWL Metabolomics (now Rubió Metabolomics), initially as a researcher in the Metabolomics Department. Since 2017, I have been leading the Data Science Department, overseeing predictive modeling and statistical computing. My work supports metabolomics services, laboratory processes, data handling, R&D projects, and technology transfer.
 
-In 2025, I completed a PhD in Mathematics and Statistics, with a thesis focused on the application of :dna: genetic algorithms :dna: for the identification of MASLD subtypes, bridging computational approaches with translational medicine and contributing to the field of precision medicine.
+In 2025, **I completed a PhD in Mathematics and Statistics**, with a thesis focused on the application of :dna: genetic algorithms :dna: for the identification of MASLD subtypes, bridging computational approaches with translational medicine and contributing to the field of precision medicine.
 
 <details>
 <summary><b>Education</b></summary>
